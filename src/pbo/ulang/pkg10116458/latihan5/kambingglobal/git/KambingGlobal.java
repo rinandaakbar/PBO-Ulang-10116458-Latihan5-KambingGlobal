@@ -7,7 +7,9 @@ package pbo.ulang.pkg10116458.latihan5.kambingglobal.git;
 
 /**
  *
- * @author nanda
+ * @author
+ * NAMA     : Rinanda Al Qorrie Akbar
+ * NIM      : 10116458
  */
 public class KambingGlobal {
     
